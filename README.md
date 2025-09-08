@@ -1,6 +1,6 @@
 # Magic Admin PHP SDK
 
-The Magic Admin PHP SDK provides convenient ways for developers to interact with Magic API endpoints and an array of utilities to handle [DID Token](https://docs.magic.link/tutorials/decentralized-id).
+The Magic Admin PHP SDK provides convenient ways for developers to interact with Magic API endpoints and an array of utilities to handle [DID Token](https://magic.link/docs/authentication/features/decentralized-id).
 
 ## Table of Contents
 
